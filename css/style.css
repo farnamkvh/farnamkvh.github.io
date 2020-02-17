@@ -3587,6 +3587,14 @@ input[type="button"].btn-block {
     color: #2f89fc;
     }
 
+
+h3.ninedesign{
+  color: #2f89fc
+  text-align: center;
+
+
+}
+
 .card {
   position: relative;
   display: -webkit-box;
@@ -7899,6 +7907,7 @@ header {
     position: absolute;
     top: -80px;
     left: -50px;
+    z-index: -1;
     right: 0;
     bottom: 0;
     font-weight: 700 !important;
